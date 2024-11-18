@@ -1,0 +1,10 @@
+/Users/martinnallar/Library/Mobile Documents/com~apple~CloudDocs/Documents/Universidad/2024-1/Diseño Detallado de Software/Entrega 4/Fire-Emblem/Fire-Emblem-Model/bin/Release/net8.0/Fire-Emblem-Model
+/Users/martinnallar/Library/Mobile Documents/com~apple~CloudDocs/Documents/Universidad/2024-1/Diseño Detallado de Software/Entrega 4/Fire-Emblem/Fire-Emblem-Model/bin/Release/net8.0/Fire-Emblem-Model.dll
+/Users/martinnallar/Library/Mobile Documents/com~apple~CloudDocs/Documents/Universidad/2024-1/Diseño Detallado de Software/Entrega 4/Fire-Emblem/Fire-Emblem-Model/bin/Release/net8.0/Fire-Emblem-Model.pdb
+/Users/martinnallar/Library/Mobile Documents/com~apple~CloudDocs/Documents/Universidad/2024-1/Diseño Detallado de Software/Entrega 4/Fire-Emblem/Fire-Emblem-Model/obj/Release/net8.0/Fire-Emblem-Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/martinnallar/Library/Mobile Documents/com~apple~CloudDocs/Documents/Universidad/2024-1/Diseño Detallado de Software/Entrega 4/Fire-Emblem/Fire-Emblem-Model/obj/Release/net8.0/Fire-Emblem-Model.AssemblyInfoInputs.cache
+/Users/martinnallar/Library/Mobile Documents/com~apple~CloudDocs/Documents/Universidad/2024-1/Diseño Detallado de Software/Entrega 4/Fire-Emblem/Fire-Emblem-Model/obj/Release/net8.0/Fire-Emblem-Model.AssemblyInfo.cs
+/Users/martinnallar/Library/Mobile Documents/com~apple~CloudDocs/Documents/Universidad/2024-1/Diseño Detallado de Software/Entrega 4/Fire-Emblem/Fire-Emblem-Model/obj/Release/net8.0/Fire-Emblem-Model.csproj.CoreCompileInputs.cache
+/Users/martinnallar/Library/Mobile Documents/com~apple~CloudDocs/Documents/Universidad/2024-1/Diseño Detallado de Software/Entrega 4/Fire-Emblem/Fire-Emblem-Model/obj/Release/net8.0/Fire-Emblem-Model.dll
+/Users/martinnallar/Library/Mobile Documents/com~apple~CloudDocs/Documents/Universidad/2024-1/Diseño Detallado de Software/Entrega 4/Fire-Emblem/Fire-Emblem-Model/obj/Release/net8.0/refint/Fire-Emblem-Model.dll
+/Users/martinnallar/Library/Mobile Documents/com~apple~CloudDocs/Documents/Universidad/2024-1/Diseño Detallado de Software/Entrega 4/Fire-Emblem/Fire-Emblem-Model/obj/Release/net8.0/Fire-Emblem-Model.pdb

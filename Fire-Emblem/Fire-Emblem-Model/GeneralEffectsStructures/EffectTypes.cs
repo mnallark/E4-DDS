@@ -1,0 +1,33 @@
+namespace Fire_Emblem_Model;
+
+public enum EffectType
+{
+    Bonus,
+    HpBonus,
+    BonusOnFirstAttack,
+    BonusOnFollowUp,
+    Penalty,
+    PenaltyOnFirstAttack,
+    PenaltyOnFollowUp,
+    NeutralizationBonus,
+    NeutralizationPenalty,
+    DamageExtra,
+    DamageExtraOnFirstAttack,
+    DamageExtraOnFollowUp,
+    ReductionPercentageDamageReduction,
+    PercentageDamageReduction,
+    PercentageDamageReductionOnFirstAttack,
+    PercentageDamageReductionOnFollowUp,
+    DamageReduction,
+    PostApplicationEffect,
+    HpPercentageRecovery,
+    HpReductionPreCombat,
+    HpRecoveryPostCombat,
+    HpReductionPostCombat,
+    CounterattackDenial,
+    CounterattackNegationDenial,
+    FollowUpGuaranteed,
+    FollowUpNeutralization,
+    NegationFollowUpNeutralization,
+    NegationFollowUpGuaranteed,
+}
